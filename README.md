@@ -1,4 +1,4 @@
-## Object-Relational Mapping (ORM): E-Commerce Back End 
+## Object-Relational Mapping (ORM): E-Commerce Backend 
   
 <p>
     <img src="https://img.shields.io/github/repo-size/chaunnybby7/ecommerce-backend" />
@@ -20,7 +20,7 @@
    
 ## Description
 
-MySql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+MySQL database and application backend for an e-commerce site. Built using MySQL, Express, Sequelize and dotenv.
   
   
 
