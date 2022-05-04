@@ -2,19 +2,19 @@
   
 <p>
     <img src="https://img.shields.io/github/repo-size/chaunnybby7/ecommerce-backend" />
-    <img src="https://img.shields.io/github/languages/top/chaunnybby7/ecommerce-backend"  />
+
 
 
   
 <p>
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/Sequelize-blue"  />
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Top Language](https://img.shields.io/github/languages/top/chaunnybby7/ultimatenotetaker)
 
 
    
