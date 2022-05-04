@@ -52,7 +52,7 @@ Step 1: Please clone the repository:
 git clone git@github.com:chaunnybby7/ecommerce-backend.git
 ```
 
-Step 2:
+Step 2: Run the following command at the root of your project
 ``` 
 1. Run `npm init`
 
@@ -69,20 +69,26 @@ or Run `npm install`.
 
 ## Usage
 
-Run the following command at the root of your project and answer the prompted questions:
+1. Run the following command at the root of your project: 
+```
+mysql -u root -p
+```
+Enter your password when prompted.
 
-`mysql -u root -p`
 
-Enter PW when promted
+2. Enter Schema and Seeds commands:
 
+```
 `source db/schema.sql`
 
-`quit`
+`USE ecommerce_db;`
+
+`quit` or `exit`
 
 `npm run seed`
   
 `npm start`
-
+```
 ## Testing
 
 No testing is currently set up.
