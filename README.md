@@ -28,13 +28,13 @@ MySQL database and application backend for an e-commerce site. Built using MySQL
 
 
 Or go to:
-* <a href=""> MySQL/Server Walkthrough Video </a>
+* <a href="https://drive.google.com/file/d/1zY3DTSq1I1kMHItbPoyyJPZsj2qZLA5s/view"> MySQL/Server Walkthrough Video </a>
 
 
 
 Insomnia Walkthrough Video: 
-* <a href=""> API GET routes in Insomnia Core for Categories, Products, or Tags</a>
-* <a href=""> API POST, PUT, and DELETE routes in Insomnia Core </a>
+* <a href="https://drive.google.com/file/d/18y1IPBeQfsB1tZH01f5GyQN5HVV4S3OY/view"> API GET routes in Insomnia Core for Categories, Products, or Tags</a>
+* <a href="https://drive.google.com/file/d/1O4ZsMsthrDBSi-dSlbbYCSdR4uQZ7CtG/view"> API POST, PUT, and DELETE routes in Insomnia Core </a>
   
 
 ## Table of Contents
