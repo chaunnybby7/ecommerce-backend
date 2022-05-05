@@ -111,9 +111,9 @@ Enter your password when prompted.
   
 `npm start`
 ```
-## Repo
+## Github Repo Link 
 
-[E-commerce Backend Repo](https://github.com/chaunnybby7/ecommerce-backend)
+[E-commerce Backend](https://github.com/chaunnybby7/ecommerce-backend)
 
 ## Authors
 YiLin Ong
