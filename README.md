@@ -27,7 +27,14 @@ MySQL database and application backend for an e-commerce site. Built using MySQL
 ## Demo
 
 
+
+https://user-images.githubusercontent.com/97390473/166848730-a4ffafa5-4a66-4aed-8af1-0b819ca3e1a7.mp4
+
+
+
+
 Or go to:
+
 * <a href="https://drive.google.com/file/d/1zY3DTSq1I1kMHItbPoyyJPZsj2qZLA5s/view"> MySQL/Server Walkthrough Video </a>
 
 Insomnia Walkthrough Video: 
@@ -36,6 +43,15 @@ https://user-images.githubusercontent.com/97390473/166848452-4dac11df-8628-4af2-
 
 
 * <a href="https://drive.google.com/file/d/18y1IPBeQfsB1tZH01f5GyQN5HVV4S3OY/view"> API GET routes in Insomnia Core for Categories, Products, or Tags</a>
+
+
+
+
+https://user-images.githubusercontent.com/97390473/166848644-799bbb08-dff4-4c2b-be86-4117787f1d52.mp4
+
+
+
+
 * <a href="https://drive.google.com/file/d/1O4ZsMsthrDBSi-dSlbbYCSdR4uQZ7CtG/view"> API POST, PUT, and DELETE routes in Insomnia Core </a>
   
 
