@@ -89,9 +89,9 @@ Enter your password when prompted.
   
 `npm start`
 ```
-## Testing
+## Repo
 
-No testing is currently set up.
+[E-commerce Backend Repo](https://github.com/chaunnybby7/ecommerce-backend)
 
 ## Authors
 YiLin Ong
