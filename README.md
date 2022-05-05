@@ -28,7 +28,11 @@ MySQL database and application backend for an e-commerce site. Built using MySQL
 
 
 
-https://user-images.githubusercontent.com/97390473/166848730-a4ffafa5-4a66-4aed-8af1-0b819ca3e1a7.mp4
+
+https://user-images.githubusercontent.com/97390473/166848849-b249dace-5b2e-4b30-a024-0c8366837192.mp4
+
+
+
 
 
 
